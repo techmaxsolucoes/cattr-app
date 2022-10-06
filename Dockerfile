@@ -1,0 +1,1 @@
+FROM amazingcat/cattr:latest
